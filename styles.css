@@ -1,0 +1,55 @@
+
+body {
+    background-color: #005A8F;
+}
+
+.big-title {
+    font-size: 6rem;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.headline {
+    display: flex;
+    justify-content: center;
+}
+
+.simon {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 0px;
+}
+
+.btn-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.s-btn {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin: 25px;
+    border-radius: 50px;
+}
+
+#btn-1 {
+    
+}
+
+#btn-2 {
+    
+}
+
+#btn-3 {
+   
+}
+
+#btn-4 {
+    
+}
